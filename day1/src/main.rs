@@ -108,7 +108,7 @@ fn main() {
     println!("Password is {}", zero_count);
 
     let zero_count = get_password_2(&inputs);
-    // println!("Password using method 2 is {}", zero_count);
+    println!("Password using method 2 is {}", zero_count);
     // println!("{:>5} | {:>5} | {:>5}", "x", "delta", "count");
     // for i in -20..20 {
     //     let x = 0;
